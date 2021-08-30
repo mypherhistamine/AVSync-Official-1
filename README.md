@@ -8,4 +8,4 @@ Feature Plans
 - Voice chat 
 
 
-
+Download our app on Google PLay - [Download Link](https://play.google.com/store/apps/details?id=com.AppStacks.AVSync)
